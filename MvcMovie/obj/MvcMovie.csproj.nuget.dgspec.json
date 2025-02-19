@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tyreece/VS Code/MvcMovie/MvcMovie.csproj": {}
+    "/Users/tyreece/VS Code/ASP.NET-Core-MVP-Tutorial/MvcMovie/MvcMovie.csproj": {}
   },
   "projects": {
-    "/Users/tyreece/VS Code/MvcMovie/MvcMovie.csproj": {
+    "/Users/tyreece/VS Code/ASP.NET-Core-MVP-Tutorial/MvcMovie/MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tyreece/VS Code/MvcMovie/MvcMovie.csproj",
+        "projectUniqueName": "/Users/tyreece/VS Code/ASP.NET-Core-MVP-Tutorial/MvcMovie/MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "/Users/tyreece/VS Code/MvcMovie/MvcMovie.csproj",
+        "projectPath": "/Users/tyreece/VS Code/ASP.NET-Core-MVP-Tutorial/MvcMovie/MvcMovie.csproj",
         "packagesPath": "/Users/tyreece/.nuget/packages/",
-        "outputPath": "/Users/tyreece/VS Code/MvcMovie/obj/",
+        "outputPath": "/Users/tyreece/VS Code/ASP.NET-Core-MVP-Tutorial/MvcMovie/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tyreece/.nuget/NuGet/NuGet.Config"
